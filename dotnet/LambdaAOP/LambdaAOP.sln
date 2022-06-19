@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaAOP", "LambdaAOP\LambdaAOP.csproj", "{86F59205-4A14-4D27-8D4A-E9BA1B50BAF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaAOP.Tests", "LambdaAOP.Tests\LambdaAOP.Tests.csproj", "{AA69C60F-D30B-4EDD-8442-5C3A29C784ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F59205-4A14-4D27-8D4A-E9BA1B50BAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F59205-4A14-4D27-8D4A-E9BA1B50BAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F59205-4A14-4D27-8D4A-E9BA1B50BAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F59205-4A14-4D27-8D4A-E9BA1B50BAF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA69C60F-D30B-4EDD-8442-5C3A29C784ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA69C60F-D30B-4EDD-8442-5C3A29C784ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA69C60F-D30B-4EDD-8442-5C3A29C784ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA69C60F-D30B-4EDD-8442-5C3A29C784ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25B789D-173D-47FB-A98C-23316990F0AB}
+	EndGlobalSection
+EndGlobal
